@@ -7,7 +7,10 @@ namespace CQR.Controllers
     public class ProductController : Controller
     {
         private readonly IProductService _service;
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="service"></param>
         public ProductController(IProductService service)
         {
             _service = service;
