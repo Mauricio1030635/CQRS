@@ -2,7 +2,7 @@
 using AutoMapper;
 using DOMAIN.Entities;
 
-
+///
 namespace APPLICATION.Mappings
 {
     public class ProductProfile : Profile
