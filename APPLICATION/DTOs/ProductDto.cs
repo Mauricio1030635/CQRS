@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace APPLICATION.DTOs
-{
+{/////
     public class ProductDto
     {
         public int Id { get; set; }
